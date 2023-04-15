@@ -8,6 +8,7 @@ from lxml import html
 import requests
 import json
 from datetime import date
+import csv
 from rescrape import ListingSource, ListingSourceType, Property, PropertyType, SellerType, ZoneType
 
 class Ksl(ListingSource):
@@ -115,6 +116,12 @@ class Ksl(ListingSource):
         if attribute in data:
             print(f'{attribute:<25}: {data[attribute]}')
     
+def RecordProperties(PropertyList, FileName):
+    Filename = f"{FileName}{date.today()}.csv"
+    with open(Filename, 'w', newline='') as f:
+        writer = csv.writer(f)
+        for flow in FlowEntries:
+            writer.writerow([str(date.today()), flow.name, flow.flow, flow.min, flow.max, flow.highwater, flow.flood, flow.highp, flow.floodp])
 
 #<div class="GridItem_GridItemTitle__k35xf">473 13th Street, Ogden, UT 84404</div><div class="GridItem_GridItemTitle__k35xf" style="visibility: hidden; height: 0px; margin-bottom: 0px;"><span>473 13th Street, Ogden, UT 84404</span></div><div class="GridItem_GridItemPrice__Cdf3J">$449,900</div><div class="GridItem_GridItemDetail__VRLk2"><span>4 bed</span><span> | 3 bath</span><span> | 2,931 sqft</span></div>    
 #<a class="GridItem_GridItemInner__LOPea" href="/listing/40514347" target="_blank"><div class="GridItem_GridItemTitle__k35xf">473 13th Street, Ogden, UT 84404</div><div class="GridItem_GridItemTitle__k35xf" style="visibility: hidden; height: 0px; margin-bottom: 0px;"><span>473 13th Street, Ogden, UT 84404</span></div><div class="GridItem_GridItemPrice__Cdf3J">$449,900</div><div class="GridItem_GridItemDetail__VRLk2"><span>4 bed</span><span> | 3 bath</span><span> | 2,931 sqft</span></div></a>
@@ -126,11 +133,15 @@ def UnitTest_Ksl():
     f = open('kslproperties.db', 'r')
     Uris = f.read().splitlines()
     
+    PropertyList = []
     for uri in Uris:
         if uri[0] != '#':
             p = ksl.LoadProperty(uri)
             print(p)
+            PropertyList.append(p)
         print(uri)
+    
+    RecordProperties(PropertyList, "FSBO KSL")
 
 def Main(Argv):
     return UnitTest_Ksl()
