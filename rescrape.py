@@ -6,6 +6,7 @@
 '''
 from aenum import Enum
 from datetime import date
+import sys
 
 class PropertyType(Enum):
     _init_ = 'value string'
@@ -51,14 +52,14 @@ class SellerType(Enum):
     Owner = 1, "Owner"
     Agent = 2, "Agent"
 
-class ListingSource(Enum):
+class ListingSourceType(Enum):
     _init_ = 'value string'
     def __str__(self):
         return self.string
 
     Unknown = 0,"Unknown"
-    UtahRealestate = 1, "UtahRealEstate.com"
-    KSL = 2, "KSL Classifieds"
+    UtahRealestate = 1, "UtahRealEstate"
+    KSL = 2, "KSL Homes"
     Zillow = 3, "Zillow"
        
 class Property:
@@ -66,7 +67,7 @@ class Property:
         self.Type = PropertyType.Unknown
         self.Zone = ZoneType.Unknown
         self.Seller = SellerType.Unknown
-        self.ListingSource = ListingSource.Unknown
+        self.ListingSource = ListingSourceType.Unknown
         self.DateCreated = date.today()
         self.ID = None                          # Specific to the listing source
         self.StreetAddress = ""
@@ -89,13 +90,36 @@ class Property:
         ls = f'{str(self.ListingSource):<8}'
         return f"{dc}{ls}{id}{sa}{zn}{se}"
 
-p = Property()  
-p.Type = PropertyType.SingleFamily
-p.Zone = ZoneType.SingleFamily
-p.Seller = SellerType.Owner
-p.StreetAddress = "1334 Gillman Blvd"
-p.City = "Salt Lake City"
-p.State = "Utah"
-p.Zip = 84102
+class ListingSource:
+    def __init__(self):
+        self.Type = ListingSourceType.Unknown
+    
+    def __repr__(self):
+        return f"{self.Type}"
+    
+    # API contract to load a list of properties matching some criteral (filters)
+    #
+    def LoadPropertyList(uri, filters):
+        return []
+    
+    # API contract to load a specific property with a given ID (specific to the listing source)
+    #
+    def LoadProperty(id):
+        return None
+        
+def UnitTest_Property():
+    p = Property()  
+    p.Type = PropertyType.SingleFamily
+    p.Zone = ZoneType.SingleFamily
+    p.Seller = SellerType.Owner
+    p.StreetAddress = "1334 Gillman Blvd"
+    p.City = "Salt Lake City"
+    p.State = "Utah"
+    p.Zip = 84102
+    print(p)
 
-print(p)
+def Main(Argv):
+    return UnitTest_Property()
+
+if __name__ == '__main__':
+    Main(sys.argv)
