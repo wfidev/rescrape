@@ -79,6 +79,19 @@ class Property:
         self.Sqft = 0
         self.Beds = 0
         self.Baths = 0.0
+        self.ImageLink = ""
+        self.Description = ""
+        self.SellerID = ""
+        self.Parking = ""
+        self.Heating = ""
+        self.Cooling = ""
+        self.YearBuilt = 0
+        self.SchoolDistrict = ""
+        self.SpecialFeatures = ""
+        self.Basement = ""
+        self.Appliances = ""
+        self.MLS = 0
+        self.TimePosted = ""
 
     def __repr__(self):
         ty = f'{str(self.Type)[:8]:<9}'
@@ -87,8 +100,8 @@ class Property:
         dc = f'{self.DateCreated.strftime("%m-%d-%y"):<9}'
         sa = f'{self.StreetAddress[:19]:<20}'
         id = f'{str(self.ID)[:4]:<5}'
-        ls = f'{str(self.ListingSource):<8}'
-        return f"{dc}{ls}{id}{sa}{zn}{se}"
+        ls = f'{str(self.ListingSource):<10}'
+        return f"{dc}{ls}{id}{sa}{se}"
 
 class ListingSource:
     def __init__(self):
