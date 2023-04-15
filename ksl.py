@@ -60,6 +60,7 @@ class Ksl(ListingSource):
             tempdata = json.loads(dataLayerTmp)
             if tempdata and 'pageDetails' in tempdata:
                 p = self.CreatePropertyFromPage(tempdata['pageDetails'])
+                p.Uri = uri
                 p.ImageLink = ImageLink if ImageLink else p.ImageLink
                 p.Description = Description if Description else p.Description
                 #p.Address = metafields.get('og:title')
@@ -71,7 +72,10 @@ class Ksl(ListingSource):
         p.Zone = ZoneType.Unknown
         p.DateCreated = date.today()
         p.ListingSource = ListingSourceType.KSL
-        p.Type = self.LookupPropertyType(data, 'Catetgory')
+
+        # Read in the values from the page
+        #
+        p.Type = self.LookupPropertyType(data, 'Category')
         p.Seller = self.LookupSellerType(data, 'Seller Type')
         p.ID = self.AttributeLookup(data, 'AD ID', int)
         p.StreetAddress = self.AttributeLookup(data, 'Title', str)
@@ -94,6 +98,11 @@ class Ksl(ListingSource):
         p.Appliances = self.AttributeLookup(data, 'Included Appliances', str)
         p.MLS = self.AttributeLookup(data, 'mls number', int)
         p.TimePosted = self.AttributeLookup(data, 'Time Posted', str)
+
+        # Normalize the data as needed
+        #
+        p.StreetAddress = p.StreetAddress.split('|')[0]
+
         return p
 
     def AttributeLookup(self, data, key, Type):
@@ -116,10 +125,11 @@ class Ksl(ListingSource):
         if attribute in data:
             print(f'{attribute:<25}: {data[attribute]}')
     
-def RecordProperties(PropertyList, FileName):
-    Filename = f"{FileName}{date.today()}.csv"
+def RecordProperties(PropertyList, Name):
+    Filename = f"Reports/{Name}-{date.today()}.csv"
     with open(Filename, 'w', newline='') as f:
         writer = csv.writer(f)
+        p = Property()
         writer.writerow(p.GetReportHeader())
         for p in PropertyList:
             writer.writerow(p.GetReportRow())
@@ -142,7 +152,7 @@ def UnitTest_Ksl():
             PropertyList.append(p)
         print(uri)
     
-    RecordProperties(PropertyList, "FSBO KSL")
+    RecordProperties(PropertyList, "Ksl-Fsbo")
 
 def Main(Argv):
     return UnitTest_Ksl()

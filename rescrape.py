@@ -64,8 +64,8 @@ class ListingSourceType(Enum):
        
 class Property:
     def __init__(self):
+        self.Uri = ""
         self.Type = PropertyType.Unknown
-        self.Zone = ZoneType.Unknown
         self.Seller = SellerType.Unknown
         self.ListingSource = ListingSourceType.Unknown
         self.DateCreated = date.today()
@@ -79,6 +79,7 @@ class Property:
         self.Sqft = 0
         self.Beds = 0
         self.Baths = 0.0
+        self.Zone = ZoneType.Unknown
         self.ImageLink = ""
         self.Description = ""
         self.SellerID = ""
