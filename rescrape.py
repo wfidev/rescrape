@@ -102,6 +102,49 @@ class Property:
         id = f'{str(self.ID)[:4]:<5}'
         ls = f'{str(self.ListingSource):<10}'
         return f"{dc}{ls}{id}{sa}{se}"
+    
+    def GetReportHeader(self):
+        return self.__dict__.keys()
+
+    def GetReportRow(self):
+        row = []
+        for key in self.__dict__.keys():          # This keeps the order of header and values in sync
+            row.append(self.__dict__[key])
+        return row
+
+    '''    
+    def GetReportRow(self):
+        row = []
+        row.append(self.Type)
+        row.append(self.Zone)
+        row.append(self.Seller)
+        row.append(self.ListingSource)
+        row.append(self.DateCreated)
+        row.append(self.ID)
+        row.append(self.StreetAddress)
+        row.append(self.City)
+        row.append(self.State)
+        row.append(self.Zip)
+        row.append(self.Price)
+        row.append(self.Acres)
+        row.append(self.Sqft)
+        row.append(self.Beds)
+        row.append(self.Baths)
+        row.append(self.ImageLink)
+        row.append(self.Description)
+        row.append(self.SellerID)
+        row.append(self.Parking)
+        row.append(self.Heating)
+        row.append(self.Cooling)
+        row.append(self.YearBuilt)
+        row.append(self.SchoolDistrict)
+        row.append(self.SpecialFeatures)
+        row.append(self.Basement)
+        row.append(self.Appliances)
+        row.append(self.MLS)
+        row.append(self.TimePosted)
+        return row
+    '''
 
 class ListingSource:
     def __init__(self):
