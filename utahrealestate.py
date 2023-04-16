@@ -7,9 +7,18 @@ import sys
 from lxml import html
 import requests
 import json
-from datetime import date
+from datetime import date, timedelta
 import csv
 from rescrape import ListingSource, ListingSourceType, Property, PropertyType, SellerType, ZoneType, RecordProperties
+
+def CleanSF(x):
+    return " ".join(x.text_content().replace("\n", "").replace("\t", "").split())
+
+def FindPropItem(lis, searchtext):
+    for li in lis:
+        if searchtext in li.text_content():
+            return li
+    return None
 
 class UtahRealestate(ListingSource):
     def __init__(self):
@@ -37,8 +46,7 @@ class UtahRealestate(ListingSource):
         
     def CreatePropertyFromPage(self, doc):
         p = Property()
-        p.Zone = ZoneType.Unknown       # TODO fill this in from the numeric value
-        p.DateCreated = date.today()
+        p.DateScraped = date.today()
         p.ListingSource = ListingSourceType.UtahRealestate
         p.Seller = SellerType.Agent
 
@@ -64,41 +72,74 @@ class UtahRealestate(ListingSource):
 
         # The following items are at unpredictable indices
         #
-        li = self.FindPropItem(lis, 'MLS#')
+        li = FindPropItem(lis, 'MLS#')
         p.MLS = int(li.text_content().split('\n')[5].strip())
         p.ID = p.MLS
 
-        li = self.FindPropItem(lis, 'Year Built')
+        li = FindPropItem(lis, 'Year Built')
         p.YearBuilt = int(li.text_content().split('\n')[5].strip())
 
-        li = self.FindPropItem(lis, 'Acres:')
+        li = FindPropItem(lis, 'Acres:')
         p.Acres = float(li.text.split(' ')[1])
 
-        # The request require some custom logic
+        # Type and SellerID
         #
         p.Type = self.LookupPropertyType(doc)
         ao = doc.xpath('//div[@class="agent___overview___info"]')
         agent = ao[0].xpath('//strong')
         p.SellerID = agent[0].text_content()
 
-        # TODO - Fill in these values
-        # p.Parking = lis[42].text + ' ' + list[43].text
-        # p.Cooling = lis[34].text
-        # p.Heating = lis[35].text
-        # p.Appliances = lis[28].text
-        # p.Basement = "" # TODO - fill this in, it's in the notes
-        # p.SchoolDistrict = self.AttributeLookup(data, 'School District', str)
-        # p.SpecialFeatures = self.AttributeLookup(data, 'Special Features', str)
-        # p.TimePosted = self.AttributeLookup(data, 'Time Posted', str)
+        # Description
+        #
+        fw = doc.xpath('//div[@class="features-wrap"]')[0]
+        p.Description = fw[0].text_content()
 
+        # Zoning
+        #
+        li = FindPropItem(fw, 'Zoning:')
+        p.Zone = li.text_content().strip()
+
+        # Parking
+        #
+        lis = fw[5]
+        li = FindPropItem(lis, "Garage Capacity:")
+        p.Parking = li.text_content().strip() if li is not None else p.Parking
+
+        # Interior features
+        #
+        lis = fw[3]
+        li = FindPropItem(lis, "Air Conditioning:")
+        p.Cooling = li.text_content().strip() if li is not None else p.Cooling
+        li = FindPropItem(lis, "Heating:")
+        p.Heating = li.text_content().strip() if li is not None else p.Heating
+        li = FindPropItem(lis, "Basement:")
+        p.Basement = li.text_content().strip() if li is not None else p.Basement
+        p.Appliances = "|".join([x.text_content() for x in fw[7]])
+        sfs = [CleanSF(x) for x in fw[3]] + [CleanSF(x) for x in fw[5]]
+        p.SpecialFeatures = "|".join(sfs)
+        
+        # Time posted
+        #
+        x = doc.xpath('//div[@class="facts___item"]')
+        DaysOnURE = x[0].text_content().split('\n')[4].strip()
+        p.DatePosted = DaysOnURE
+        if DaysOnURE.isdigit():
+            posteddate = date.today() - timedelta(days=int(DaysOnURE))
+            p.DatePosted = posteddate.strftime("%m-%d-%y")
+
+        # Image Links
+        #
+        imgs = doc.xpath('//img[@class="image___gallery__photo___img"]')
+        p.ImageLink = imgs[0].get('src')
+        p.ImageGallery = " | ".join([x.get('src') for x in imgs])
+
+        # Other
+        #
+        li = FindPropItem(fw[24], "School District")
+        p.SchoolDistrict = li.text_content().split('\n')[2].strip() if li is not None else p.SchoolDistrict
+        
         return p
     
-    def FindPropItem(self, lis, searchtext):
-        for li in lis:
-            if searchtext in li.text_content():
-                return li
-        return None
-
     def LookupPropertyType(self, doc):
         x = doc.xpath('//div[@class="facts___item"]')
         Type = x[3].text_content().split('\n')[4].strip()
@@ -124,7 +165,7 @@ def UnitTest_Utahrealestate(ReportName):
     RecordProperties(PropertyList, ReportName)
 
 def Main(Argv):
-    ReportName = "Utahrealestate-Fsbo"
+    ReportName = "UtahRealestate"
     if len(Argv) > 1:
         ReportName = Argv[1]
     return UnitTest_Utahrealestate(ReportName)

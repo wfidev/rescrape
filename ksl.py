@@ -9,7 +9,7 @@ import requests
 import json
 from datetime import date
 import csv
-from rescrape import ListingSource, ListingSourceType, Property, PropertyType, SellerType, ZoneType
+from rescrape import ListingSource, ListingSourceType, Property, PropertyType, SellerType, ZoneType, RecordProperties
 
 class Ksl(ListingSource):
     def __init__(self):
@@ -61,7 +61,7 @@ class Ksl(ListingSource):
     def CreatePropertyFromPage(self, data):
         p = Property()
         p.Zone = ZoneType.Unknown
-        p.DateCreated = date.today()
+        p.DateScraped = date.today()
         p.ListingSource = ListingSourceType.KSL
 
         # Read in the values from the page
@@ -88,7 +88,7 @@ class Ksl(ListingSource):
         p.Basement = self.AttributeLookup(data, 'Basement Type', str)
         p.Appliances = self.AttributeLookup(data, 'Included Appliances', str)
         p.MLS = self.AttributeLookup(data, 'mls number', int)
-        p.TimePosted = self.AttributeLookup(data, 'Time Posted', str)
+        p.DatePosted = self.AttributeLookup(data, 'Time Posted', str)
 
         # Normalize the data as needed
         #

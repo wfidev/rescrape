@@ -65,41 +65,42 @@ class ListingSourceType(Enum):
        
 class Property:
     def __init__(self):
-        self.Uri = ""
-        self.Type = PropertyType.Unknown
-        self.Seller = SellerType.Unknown
-        self.ListingSource = ListingSourceType.Unknown
-        self.DateCreated = date.today()
         self.ID = None                          # Specific to the listing source
+        self.Price = 0.0
+        self.Sqft = 0
+        self.Beds = 0
+        self.Baths = 0.0
+        self.Acres = 0.0
         self.StreetAddress = ""
         self.City = ""
         self.State = ""
         self.Zip = 0
-        self.Price = 0.0
-        self.Acres = 0.0
-        self.Sqft = 0
-        self.Beds = 0
-        self.Baths = 0.0
-        self.Zone = ZoneType.Unknown
+        self.YearBuilt = 0
+        self.Zone = ""
+        self.Uri = ""
+        self.Type = PropertyType.Unknown
+        self.ListingSource = ListingSourceType.Unknown
+        self.Seller = SellerType.Unknown
+        self.DateScraped = date.today()
+        self.DatePosted = ""
+        self.Basement = ""
         self.ImageLink = ""
         self.Description = ""
         self.SellerID = ""
         self.Parking = ""
         self.Heating = ""
         self.Cooling = ""
-        self.YearBuilt = 0
         self.SchoolDistrict = ""
         self.SpecialFeatures = ""
-        self.Basement = ""
         self.Appliances = ""
+        self.ImageGallery = ""
         self.MLS = 0
-        self.TimePosted = ""
 
     def __repr__(self):
         ty = f'{str(self.Type)[:8]:<9}'
         zn = f'{str(self.Zone)[:8]:<9}'
         se = f'{self.Seller:<6}'
-        dc = f'{self.DateCreated.strftime("%m-%d-%y"):<9}'
+        dc = f'{self.DateScraped.strftime("%m-%d-%y"):<9}'
         sa = f'{self.StreetAddress[:19]:<20}'
         id = f'{str(self.ID)[:4]:<5}'
         ls = f'{str(self.ListingSource):<10}'
@@ -113,40 +114,6 @@ class Property:
         for key in self.__dict__.keys():          # This keeps the order of header and values in sync
             row.append(self.__dict__[key])
         return row
-
-    '''    
-    def GetReportRow(self):
-        row = []
-        row.append(self.Type)
-        row.append(self.Zone)
-        row.append(self.Seller)
-        row.append(self.ListingSource)
-        row.append(self.DateCreated)
-        row.append(self.ID)
-        row.append(self.StreetAddress)
-        row.append(self.City)
-        row.append(self.State)
-        row.append(self.Zip)
-        row.append(self.Price)
-        row.append(self.Acres)
-        row.append(self.Sqft)
-        row.append(self.Beds)
-        row.append(self.Baths)
-        row.append(self.ImageLink)
-        row.append(self.Description)
-        row.append(self.SellerID)
-        row.append(self.Parking)
-        row.append(self.Heating)
-        row.append(self.Cooling)
-        row.append(self.YearBuilt)
-        row.append(self.SchoolDistrict)
-        row.append(self.SpecialFeatures)
-        row.append(self.Basement)
-        row.append(self.Appliances)
-        row.append(self.MLS)
-        row.append(self.TimePosted)
-        return row
-    '''
 
 class ListingSource:
     def __init__(self):
