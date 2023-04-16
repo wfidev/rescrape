@@ -19,15 +19,6 @@ class Ksl(ListingSource):
     # API contract to load a list of properties matching some criteral (filters)
     #
     def LoadPropertyList(uri='https://homes.ksl.com', filters = None):
-        r = requests.get(uri)
-        doc = html.fromstring(r.text)
-        print(doc)
-        # Anchors = doc.xpath('//div[@class="GridItem_GridItemInner__LOPea"]')
-        Anchors = doc.xpath('//*[contains(@class, "GridItem_GridItemInner")]')
-
-        for a in Anchors:
-            print(a.href)
-
         return []
     
     # API contract to load a specific property with a given ID (specific to the listing source)
@@ -125,25 +116,16 @@ class Ksl(ListingSource):
         if attribute in data:
             print(f'{attribute:<25}: {data[attribute]}')
     
-def RecordProperties(PropertyList, Name):
-    Filename = f"Reports/{Name}-{date.today()}.csv"
-    with open(Filename, 'w', newline='') as f:
-        writer = csv.writer(f)
-        p = Property()
-        writer.writerow(p.GetReportHeader())
-        for p in PropertyList:
-            writer.writerow(p.GetReportRow())
-
 def UnitTest_Ksl(ReportName):
     ksl = Ksl()
     print(ksl)
 
-    f = open('kslproperties.db', 'r')
+    f = open('properties.db', 'r')
     Uris = f.read().splitlines()
     
     PropertyList = []
     for uri in Uris:
-        if uri[0] != '#':
+        if uri[0] != '#' and "ksl.com" in uri:
             p = ksl.LoadProperty(uri)
             print(p)
             PropertyList.append(p)

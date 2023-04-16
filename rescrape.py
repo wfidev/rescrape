@@ -7,6 +7,7 @@
 from aenum import Enum
 from datetime import date
 import sys
+import csv
 
 class PropertyType(Enum):
     _init_ = 'value string'
@@ -163,7 +164,16 @@ class ListingSource:
     #
     def LoadProperty(id):
         return None
-        
+
+def RecordProperties(PropertyList, Name):
+    Filename = f"Reports/{Name}-{date.today()}.csv"
+    with open(Filename, 'w', newline='') as f:
+        writer = csv.writer(f)
+        p = Property()
+        writer.writerow(p.GetReportHeader())
+        for p in PropertyList:
+            writer.writerow(p.GetReportRow())
+
 def UnitTest_Property():
     p = Property()  
     p.Type = PropertyType.SingleFamily
