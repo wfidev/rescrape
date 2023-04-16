@@ -11,7 +11,7 @@ def loaddoc(uri):
     doc = html.fromstring(r.text)
     return r, doc
 
-def cnt(list):
+def content(list):
     i = 0
     for item in list:
         print(f"ITEM {i}")

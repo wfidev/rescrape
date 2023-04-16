@@ -65,10 +65,14 @@ class UtahRealestate(ListingSource):
         #
         pdo = doc.xpath("//ul[@class='prop-details-overview']")
         lis = pdo[0].xpath("//li")
-        p.Price = lis[9].text_content().split('\n')[1].strip()
-        p.Beds = lis[10].text_content().split('\n')[1].strip().split(' ')[0]
-        p.Baths = lis[11].text_content().split('\n')[1].strip().split(' ')[0]
-        p.Sqft = lis[12].text_content().split('\n')[1].strip().split(' ')[0]
+        #p.Price = lis[9].text_content().split('\n')[1].strip()
+        p.Price = lis[9][0].text_content()
+        if FindPropItem(lis, "Bed") is not None:
+            p.Beds = lis[10].text_content().split('\n')[1].strip().split(' ')[0]
+        if FindPropItem(lis, "Baths") is not None:
+            p.Baths = lis[11].text_content().split('\n')[1].strip().split(' ')[0]
+        if FindPropItem(lis, "Sq.") is not None:
+            p.Sqft = lis[12].text_content().split('\n')[1].strip().split(' ')[0]
 
         # The following items are at unpredictable indices
         #
@@ -77,14 +81,16 @@ class UtahRealestate(ListingSource):
         p.ID = p.MLS
 
         li = FindPropItem(lis, 'Year Built')
-        p.YearBuilt = int(li.text_content().split('\n')[5].strip())
+        p.YearBuilt = int(li.text_content().split('\n')[5].strip()) if li is not None else p.YearBuilt
 
         li = FindPropItem(lis, 'Acres:')
-        p.Acres = float(li.text.split(' ')[1])
+        p.Acres = float(li.text.split(' ')[1]) if li is not None else p.Acres
 
         # Type and SellerID
         #
         p.Type = self.LookupPropertyType(doc)
+        if p.Type == PropertyType.Unknown and p.Sqft == 0:
+            p.Type = PropertyType.Land
         ao = doc.xpath('//div[@class="agent___overview___info"]')
         agent = ao[0].xpath('//strong')
         p.SellerID = agent[0].text_content()
@@ -135,8 +141,9 @@ class UtahRealestate(ListingSource):
 
         # Other
         #
-        li = FindPropItem(fw[24], "School District")
-        p.SchoolDistrict = li.text_content().split('\n')[2].strip() if li is not None else p.SchoolDistrict
+        if len(fw) > 23:
+            li = FindPropItem(fw[24], "School District")
+            p.SchoolDistrict = li.text_content().split('\n')[2].strip() if li is not None else p.SchoolDistrict
         
         return p
     

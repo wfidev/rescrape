@@ -8,6 +8,7 @@ from aenum import Enum
 from datetime import date
 import sys
 import csv
+import os.path
 
 class PropertyType(Enum):
     _init_ = 'value string'
@@ -134,10 +135,13 @@ class ListingSource:
 
 def RecordProperties(PropertyList, Name):
     Filename = f"Reports/{Name}-{date.today()}.csv"
-    with open(Filename, 'w', newline='') as f:
+    appendmode = True if os.path.isfile(Filename) else False
+    mode = "a" if appendmode else "w"
+    with open(Filename, mode, newline='') as f:
         writer = csv.writer(f)
         p = Property()
-        writer.writerow(p.GetReportHeader())
+        if not appendmode:
+            writer.writerow(p.GetReportHeader())
         for p in PropertyList:
             writer.writerow(p.GetReportRow())
 
