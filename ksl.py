@@ -134,7 +134,7 @@ def RecordProperties(PropertyList, Name):
         for p in PropertyList:
             writer.writerow(p.GetReportRow())
 
-def UnitTest_Ksl():
+def UnitTest_Ksl(ReportName):
     ksl = Ksl()
     print(ksl)
 
@@ -149,10 +149,14 @@ def UnitTest_Ksl():
             PropertyList.append(p)
         print(uri)
     
-    RecordProperties(PropertyList, "Ksl-Fsbo")
+    RecordProperties(PropertyList, ReportName)
 
 def Main(Argv):
-    return UnitTest_Ksl()
+    print(Argv)
+    ReportName = "Ksl-Fsbo"
+    if len(Argv) > 1:
+        ReportName = Argv[1]
+    return UnitTest_Ksl(ReportName)
 
 if __name__ == '__main__':
     Main(sys.argv)
