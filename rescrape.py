@@ -96,6 +96,10 @@ class Property:
         self.Appliances = ""
         self.ImageGallery = ""
         self.MLS = 0
+        self.Zestimate = 0.0
+        self.RentEstimate = 0.0
+        self.parcelID = 0
+        self.HoaFee = 0.0
 
     def __repr__(self):
         ty = f'{str(self.Type)[:8]:<9}'

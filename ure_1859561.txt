@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <title>Your Dream Utah Property | $190,000 | 1029 W Pierpont Ave Salt Lake City UT 84104 | Property Details - MLS# 1859561 | UtahRealEstate.com</title>
+        <meta property="og:title" content="$190,000 | 1029 W Pierpont Ave Salt Lake City UT 84104" />
+<meta property="og:description" content="*Builder*Home Buyer*Investor ,This is a  Nice Building Lot in Salt Lake with access from the North and south side* Take a drive by and check it out, maybe fit a back to front duplex, Will Consider all offers    " />
+<meta property="og:url" content="https://www.utahrealestate.com/1859561" />
+<meta property="og:site_name" content="UtahRealEstate.com" />
+<meta property="og:image" content="https://assets.utahrealestate.com/photos/640x480/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg" />
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+        <meta name="format-detection" content="telephone=no" />
+                <link rel="icon" type="image/png" href="/site/img/common/favicon2-16x16.png" sizes="16x16" />
+        <link rel="icon" type="image/png" href="/site/img/common/favicon2-32x32.png" sizes="32x32" />
+        <link rel="icon" type="image/png" href="/site/img/common/favicon2-96x96.png" sizes="96x96" />
+
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="facebook-domain-verification" content="1no63didoxdvvw7k3vhzktrco4e0ee" />
+
+                
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+            
+        <link rel="stylesheet" type="text/css" media="all" href="/min/?g=layout_css&amp;1681505356" />
+        <link rel="stylesheet" type="text/css" media="all" href="/min/?g=public_layout_css&amp;1681505356" />
+        <link rel="stylesheet" type="text/css" href="/site/css/urevetica.css?1681505356" />
+        <link href='https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,400&display=swap' rel='stylesheet' type='text/css'>
+
+                <link rel="stylesheet" type="text/css" media="print" href="/site/css/print.css?1681505356" />
+                <link href="/css/site/jquery/ure/jquery-ui-1.9.2.custom.min.css?1681505356" media="screen" rel="stylesheet" type="text/css" />
+<link href="/min/?g=reports_css&amp;1681505356" media="all" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="/min/?g=layout_js_top&amp;1681505356"></script>
+
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+        
+        <script type="text/javascript">;
+            section = '';
+            is_iOS = false;
+        </script>
+
+        
+        
+        <script type="text/javascript" src="https://cdn.adapex.io/hb/aaw.ure.js" async></script>
+    </head>
+    <body>
+
+        <!-- Google Tag Manager used for UtahRealEstate.com (noscript) -->
+                <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4TNGKW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                <!-- End Google Tag Manager (noscript) -->
+
+                    <div class="cookie-banner">
+                <div class="cookie-flex">
+                    <div class="cookie-card">
+                        <h3>We use cookies</h3>
+                        <p>We use cookies to help make UtahRealEstate.com better. By using this website you agree to the terms of our <a href="/page/do/privacy.policy" target="_blank">Cookie & Privacy Policy</a>.</p>
+                    </div>
+                    <div class="cookie-card">
+                        <p><a class="btn btn-default" role="button" onclick="dismissCookiePolicyBanner(true);">I understand</a></p>
+                    </div>
+                </div>
+                <span class="cookie-close" title="Close Banner" onclick="dismissCookiePolicyBanner();"></span>
+            </div>
+        
+        <nav class="navbar navbar-default ">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <div id="nav-login-mobile" class="navbar-toggle">
+                        <a href="/auth/register.options" title="Register an account" rel="nofollow">Join</a>
+                        <a href="/auth/login/login_redirect/-1859561/force_redirect/1" rel="nofollow">Sign in</a>
+                    </div>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                                            <a href="/" class="navbar-brand"><h1 id="logomark">Your Dream Property in Utah</h1></a>
+                                    </div>
+
+                <div id="navbar" class="navbar-collapse collapse">
+                                        <ul class="nav navbar-nav navbar-right">
+
+                       <li id="for-sale-link"><a href="/search/map.search">For Sale</a></li>
+                        <li id="for-sale-link-mobile"><a href="/">For Sale</a></li>
+                        <li><a href="/search/map.search/type/7">Rentals</a></li>
+                                                    <li>
+                                <div id="hire-realtor">
+                                    <a href="/roster/search/type/agent">
+                                        <button class="hire-realtor-btn">Find a REALTOR&reg;</button>
+                                    </a>
+                                    <div class="hire-realtor-content-desktop">
+                                        <ul class="hire-realtor-pitfall">
+                                            <li>
+                                                <a href="/roster/search/type/agent"><img class="uar-badge-desktop" src="/images/site/realtor-value-banner-06.png" title="Choose an Expert.  FOR SALE BY EXPERT." alt="Choose an Expert.  FOR SALE BY EXPERT." /></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                                                <li><a href="/tools/amortization.calc">Mortgage Calculator</a></li>
+                        <li>
+                            <div id="nav-login-desktop">
+                                <a href="/auth/register.options" title="Create a Public User Account" rel="nofollow">Join</a>
+                                <a href="/auth/login/login_redirect/-1859561/force_redirect/1" rel="nofollow">Sign in</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+
+                    
+<section id="prop-details" data-spy="affix" data-offset-top="57" data-smooth-scroll="true">
+    <div class="container">
+        <div class="row"> 
+            <div class="col-md-12 col-md-8 col-lg-8">
+                <button class="btn btn-primary hide___this visible-xs sidebar___reveal" type="button" data-toggle="collapse" data-target="#sidebarActionItemsReveal" aria-expanded="false" aria-controls="sidebarActionItemsReveal">
+                    <i class="icon icon-ellipsis-v"></i>
+                </button>
+                <ul class="prop___adress___wrap">
+                    <li>
+
+                
+                                            <a href="https://www.google.com/maps/search/?api=1&query=1029+W+Pierpont+Ave%2C+Salt+Lake+City%2C+UT+84104" target="_blank">
+                            <div class="svg-container">
+                                                                        <div class="svg-container">
+                                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 -15 32 47" enable-background="new 0 -15 32 47" xml:space="preserve">
+                                            <g id="water"><polygon fill="#39c" points="32,11.4 11.4,32 32,32" /></g>
+                                            <g id="west"><polygon fill="#3c6" points="5.7,32 0,32 0,11.6 13.1,24.6" /></g>
+                                            <g id="north"><polygon fill="#3c6" points="32,5.7 32,0 0,0 0,5.9 15.9,21.8" /></g>
+                                            <g id="side-street"><polygon fill="#fff" points="15.9,21.8 0,5.9 0,11.6 13.1,24.6" /></g>
+                                            <g id="major-road"><polygon fill="#fc3" points="32,5.7 5.7,32 11.4,32 32,11.4" />
+                                            </g>
+                                            <g id="map-pin">
+                                                <g>
+                                                    <path class="animated bounce" fill="#cc3432" d="M16-2.692c-3.8,0-6.8,3.1-6.8,6.8c0,5,6.5,11.599,7,11.599c0.6,0,6.6-7.199,6.6-11.599C22.8,0.308,19.8-2.692,16-2.692z M16,6.407c-1.5,0-2.7-1.2-2.7-2.6c0-1.4,1.2-2.6,2.7-2.6s2.7,1.2,2.7,2.6C18.7,5.208,17.4,6.407,16,6.407z"/>
+                                                </g>
+                                            </g>
+                                            </svg>
+                                            <span>Map</span>
+                                        </div>                            </div>
+                             <div class="prop___overview">
+                                <h2>1029 W Pierpont Ave</h2>
+                                <p>Salt Lake City, UT 84104</p>
+                            </div>
+                        </a>
+                                    </li>
+                <li>
+                    <ul class="prop-details-overview">
+                        <li>
+                        <span>$190,000</span>                                                     <a class="listing-estimate-mortgage" title="Click for Mortgage Calculator" href="/tools/amortization.calc/sale_price/190000/tax/1635" target='_blank'><i class='icon icon-calculator'></i> <span class='calc___header'>Estimate Mortgage</span></a>                                                </li>
+                        <li>
+                            <span></span> Price Per
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            </div>
+            <div class="col-md-12 col-md-4 col-lg-4">
+                                    <div class="collapse dont-collapse-sm" id="sidebarActionItemsReveal">
+<ul id="prop-details-actions">
+
+            
+        <li>
+            <a id="rating_add_1859561" class="rating_add" onclick="Authenticate.showPreLoginPanel('favorite', {redirectUrl: mvcAddParamToURL('/report/public.single.report/report/detailed/listno/1859561', 'add_favorite', '1'), branded: 0});" title="Add To Favorites" rel="nofollow" href="javascript:;">
+                <i id="fav-icon" class="icon icon-heart"></i>
+                <span>Favorite</span>
+            </a>
+        </li>
+        <li>
+            <a onclick="Authenticate.showPreLoginPanel('ignore', {redirectUrl: mvcAddParamToURL('/report/public.single.report/report/detailed/listno/1859561', 'add_ignore', '1'), branded: 0});" title="Ignore" rel="nofollow" href="javascript:;">
+                <i class="icon icon-block"></i>
+                <span>Ignore</span>
+            </a>
+        </li>
+
+    
+    </ul>
+</div>                            </div>
+
+        </div>
+        <table class="table table-condensed desktop___jump___to">
+            <tr>
+                <td><a href="#property-facts" class="js-scroll-trigger">Property Facts</a></td>
+                <td><a href="#property-features" class="js-scroll-trigger">Property Features</a></td>
+                <td><a href="#schools" class="js-scroll-trigger">Schools</a></td>
+                <td>
+                                        87 days                                        on UtahRealEstate.com
+                </td>
+            </tr>
+        </table>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 prop-overview-wrap">
+
+                <div class="content___wrap___fluid___sidebar___300">
+                    <div>
+        
+                        
+                        
+<div id="image-gallery-wrapper">
+    <div class="public__enlarge___photo no-print"></div>
+
+        
+    <ul id="image-gallery">
+        
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b98e99451.jpg" alt="view of yard" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'>: lot28 is 40x135x40 size 5227 sq. ft</h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_0a2bebb8fcc0c9a9408d45996babe5d5_63d2b9a62dcbc.jpg" alt="view of yard" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_717e47c7cf3757e8de6244e90982a90e_63d2b9a62c741.jpg" alt="view of road" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_8ea1019df9c059c9f55619d5fdf4f109_63d2b9aa27e59.jpg" alt="view of yard" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_4556f0ea2a5983eaa4f99dfa71459dcc_63d2b9ab214ff.jpg" alt="view of road" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_984921ef0588d22da5a5273e145c50cd_63d2b9ae8cbb3.jpg" alt="yard featuring a water view" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_0bb933a7aa43f51cbc1bcb30830d157c_63d2b9af231c1.jpg" alt="exterior space" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_47b7bb448fcf2969d49632ce108bb1fd_63d2ba8b03c03.jpg" alt="plan" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+            
+                <li data-thumb="https://assets.utahrealestate.com/photos/105x79/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg" data-src="https://assets.utahrealestate.com/photos/1024x768/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg" data-srcset="https://assets.utahrealestate.com/photos/65x50/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 65w, https://assets.utahrealestate.com/photos/105x79/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 105w, https://assets.utahrealestate.com/photos/280x210/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 280w, https://assets.utahrealestate.com/photos/640x480/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 640w, https://assets.utahrealestate.com/photos/1024x768/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 1024w, https://assets.utahrealestate.com/photos/1536x1152/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 1536w, https://assets.utahrealestate.com/photos/1792x1344/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 1792w, https://assets.utahrealestate.com/photos/2048x1536/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg 2048w" data-sizes="(min-width: 65px) 100vw 100vw" data-sub-html="<h4 class='white'></h4>" class="no-print">
+                    <div class="image___gallery__photo___wrap">
+                        <img src="https://assets.utahrealestate.com/photos/640x480/1859561_cb443c56d1ef14346c7602d6fed13e31_63d2ba8b1168e.jpg" alt="floor plan" class="image___gallery__photo___img" />
+                    </div>                
+                </li>
+
+                </ul>
+
+</div>
+
+                        <div class="share-wrap clear no-print">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    
+                                                                    </div>
+
+                                <div class="col-xs-6">
+                                    <div class="share">
+                                        <span>SHARE</span>
+                                        <a class="js-social-share post-share-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.utahrealestate.com%2F1859561" target=" _blank" title="Share on Facebook"><i class="icon icon-facebook"></i></a>  
+                                        <a class="js-social-share post-share-twitter" href="https://twitter.com/intent/tweet/?text=Check%20out%20this%20listing!&url=https%3A%2F%2Fwww.utahrealestate.com%2F1859561" target="_blank" title="Share on Twitter"><i class="icon icon-twitter"></i></a>                                   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <h2 id="property-facts">Property Facts</h2>
+
+                                <ul class="facts___list___items">
+                                        <li>
+                                            <div class="facts___item">
+                                                <i class="icon icon-facts-clock"></i>
+                                                <div>
+                                                    <span class="facts-header">Days on URE</span>
+                                                    87                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="facts___item">
+                                                <i class="icon icon-facts-sign"></i>
+                                                <div>
+                                                    <span class="facts-header">Status</span>
+                                                    ACTIVE                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="facts___item">
+                                                 <i class="icon icon-list-bullet"></i>
+                                                <div>
+                                                    <span class="facts-header">MLS#</span>
+                                                    1859561                                                </div>
+                                            </div>
+                                        </li>
+                                                                            <li>
+                                            <div class="facts___item">
+                                                <i class="icon icon-facts-prop-type"></i>                            
+                                                <div>
+                                                    <span class="facts-header">Type</span>
+                                                    Residential                                                </div>
+                                            </div>                        
+                                        </li>
+                                    <li class="filler"></li>
+                                    </ul>
+
+
+                        
+                        <div class="features-wrap">
+                            <p>*Builder*Home Buyer*Investor ,This is a  Nice Building Lot in Salt Lake with access from the North and south side* Take a drive by and check it out, maybe fit a back to front duplex, Will Consider all offers    </p>
+
+                            
+                            <h2 id="property-features">Property Features</h2>    
+                            <h4>Features Include:</h4>
+                            <ul>
+                                <li>Utilities: Gas: Available; Power: Available; Sewer: Available; Sewer: Not Connected; Sewer: Public</li>                                <li>Lot: Fenced: Full; Terrain: Flat; View: Mountain</li>                                <li>Water: Culinary Available</li>                                                                                                                            </ul>
+
+                            
+                            <h4>Zoning Information:</h4>
+                            <ul>
+                                <li>Zoning: RESIDE</li>
+                                                            </ul>
+
+                            <h4>Lot Size In Acres:</h4>
+                            <ul>
+                                <li>Acres: 0.12</li>
+                            </ul>
+                                                            <h4>Buyer's Brokerage Commission</h4>
+                                <p>3% - The listing broker's offer of compensation is made only to participants of UtahRealEstate.com.</p>
+                                                        
+
+                            
+                            <h2 id="schools">Schools</h2>
+
+                            <h3 class="serving-school-headline">Designated Schools</h3>
+
+                            <div class="row center serving-school">
+                                <div class="col-sm-3">
+                                    <span>Elementary School</span>
+                                    <a href="javascript:;" class="profile" onclick="balloon.showTooltip(event, 'url:/report/details/type/3/id/36148/state/UT', 1,{width: 300})" title="View Franklin Profile">Franklin</a>                                </div>
+
+                                <div class="col-sm-3">
+                                    <span>Middle School</span>
+                                    <a href="javascript:;" class="profile" onclick="balloon.showTooltip(event, 'url:/report/details/type/3/id/36412/state/UT', 1,{width: 300})" title="View Glendale Profile">Glendale</a>                                </div>
+
+                                <div class="col-sm-3">
+                                    <span>High School</span>
+                                    <a href="javascript:;" class="profile" onclick="balloon.showTooltip(event, 'url:/report/details/type/3/id/36704/state/UT', 1,{width: 300})" title="View East Profile">East</a>                                </div>
+
+                                <div class="col-sm-3">
+                                    <span>School District</span>
+                                    <a href="javascript:;" class="profile" onclick="balloon.showTooltip(event, 'url:/report/details/type/4/id/36/state/UT', 1,{width: 300})" title="View Salt Lake Profile">Salt Lake</a>                                </div>
+                            </div>
+
+                            <p class="serving-school-rating-link"><a href="https://datagateway.schools.utah.gov/Accountability/SchoolGrades/2017" target="UDOE">View School Ratings by Utah Dept. of Education</a></p>
+
+                            <h3 class="serving-school-headline">Nearby Schools</h3>
+                            <div id="gs-module">
+                                <div class="collapse" id="gs-collapse" aria-expanded="false">
+                                    <table class="table school-rating-overview">
+                                        <thead>
+                                            <tr>
+                                                <th>GreatSchools Rating</th>
+                                                <th>School Name</th>
+                                                <th class="gs-center">Grades</th>
+                                                <th class="gs-right">Distance</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-2"><span class="gs-rating-label">2</span></div></td>
+                                                <td><a href="/report/school/id/4900585">Edison School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">0.35 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-3"><span class="gs-rating-label">3</span></div></td>
+                                                <td><a href="/report/school/id/4900589">Glendale Middle School</a><div class="tiny">Public Middle School</div></td>
+                                                <td class="gs-center">6-8</td>
+                                                <td class="gs-right">1.52 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-nr"><span class="gs-rating-label">NR</span></div></td>
+                                                <td><a href="/report/school/id/">Utah Electronic High School</a><div class="tiny">Public High School</div></td>
+                                                <td class="gs-center">9-12</td>
+                                                <td class="gs-right">2.74 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-4"><span class="gs-rating-label">4</span></div></td>
+                                                <td><a href="/report/school/id/4900588">Franklin School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">0.53 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-4"><span class="gs-rating-label">4</span></div></td>
+                                                <td><a href="/report/school/id/4900576">Backman School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">0.96 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-5"><span class="gs-rating-label">5</span></div></td>
+                                                <td><a href="/report/school/id/4900603">Parkview School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">0.97 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-3"><span class="gs-rating-label">3</span></div></td>
+                                                <td><a href="/report/school/id/4900599">Meadowlark School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">1.13 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-3"><span class="gs-rating-label">3</span></div></td>
+                                                <td><a href="/report/school/id/4901856">Dual Immersion Academy</a><div class="tiny">Charter Elementary, Middle School</div></td>
+                                                <td class="gs-center">K-8</td>
+                                                <td class="gs-right">1.18 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-3"><span class="gs-rating-label">3</span></div></td>
+                                                <td><a href="/report/school/id/4900596">Jackson School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">1.22 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-6"><span class="gs-rating-label">6</span></div></td>
+                                                <td><a href="/report/school/id/4902676">Wallace Stegner Academy</a><div class="tiny">Charter Elementary, Middle School</div></td>
+                                                <td class="gs-center">K-8</td>
+                                                <td class="gs-right">1.27 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-3"><span class="gs-rating-label">3</span></div></td>
+                                                <td><a href="/report/school/id/4900590">Mountain View School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">1.44 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-3"><span class="gs-rating-label">3</span></div></td>
+                                                <td><a href="/report/school/id/4900925">Escalante School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">1.49 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-2"><span class="gs-rating-label">2</span></div></td>
+                                                <td><a href="/report/school/id/4900605">Rose Park School</a><div class="tiny">Public Preschool, Elementary</div></td>
+                                                <td class="gs-center">PK-6</td>
+                                                <td class="gs-right">1.53 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-6"><span class="gs-rating-label">6</span></div></td>
+                                                <td><a href="/report/school/id/4902147">Pacific Heritage Academy</a><div class="tiny">Charter Elementary, Middle School</div></td>
+                                                <td class="gs-center">K-8</td>
+                                                <td class="gs-right">1.64 mi</td>
+                                            </tr>
+                                                                                        <tr>
+                                                <td><div class="gs-school-rating-wrap gs-school-rating-6"><span class="gs-rating-label">6</span></div></td>
+                                                <td><a href="/report/school/id/4901932">Salt Lake Center for Science Education</a><div class="tiny">Charter Middle School, High School</div></td>
+                                                <td class="gs-center">6-12</td>
+                                                <td class="gs-right">1.66 mi</td>
+                                            </tr>
+                                                                                    </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <p id="gs-view">
+                                <a role="button" class="collapsed" data-toggle="collapse" href="#gs-collapse" aria-expanded="false" aria-controls="gs-collapse"></a>
+                            </p>
+                            <p>School data provided by <a href="http://www.greatschools.org" rel="nofollow" target="_blank">GreatSchools</a>.</p>
+
+                            <p>For information about radon testing for homes in the state of Utah <a href="https://deq.utah.gov/waste-management-and-radiation-control/radon/radon-program" target="_blank">click here</a>.</p>
+
+
+                            
+                        </div><!-- END features-wrap -->
+                    </div>
+                    <div>
+                        <div class="public-report-sidebar-wrapper">
+                            <div class="agent-overview">
+    <h2>Contact Agent</h2>
+    <div class="agent___overview___info">
+        <img src="https://webdrive.utahrealestate.com/a80a528908c0a7dd77c2a7bca38dc1eb.jpg" alt="Alfredo S.  Gonzalez" />
+        <div class="agent-overview-content">
+            <strong><a href="/roster/agent.listings.report.public/agentid/43044" target="_blank">Alfredo S.  Gonzalez</a> </strong><br />
+            801-598-3132<br />
+        </div>    
+    </div>
+
+
+    <form id="contactform" action="" method="post" message-type="feedback">
+        <p><input class="form-control" type="text" id="name" name="name" placeholder="Your Name" /><label for="name" style="display:none">Your Name</label></p>
+        <p><input class="form-control" type="email" id="email" name="email" placeholder="Your Email" /><label for="email" style="display:none">Your Email</label></p>
+        <p><input class="form-control" type="tel" id="phone" name="phone" placeholder="Your Phone #" /><label for="phone" style="display:none">Your Phone #</label></p>
+
+        <p><span id="captcha_here"></span></p>
+        <div id="contactform-error"></div>
+        <div id="contactform-ok">Sending Feedback...</div>
+        <p><input type="submit" name="send" value="Request Info" id="send" onClick="if (typeof(_LT) != 'undefined' && _LT != null ) {_LT._trackEvent(_eventType.lead, '1859561', '84104', 'gonalf', 'Client', 'Public Detailed');}" /></p>
+        <input type="hidden" name="subject" id="subject" value="You Received a New Lead from UtahRealEstate.com - 1859561" />
+        <input type="hidden" name="listno" id="listno" value="1859561" />
+        <input type="hidden" name="propclass" id="propclass" value="3" />
+    </form>
+
+    <script type="text/javascript">
+        var onloadCallback = function(){
+            grecaptcha.render('captcha_here', {
+                sitekey: '6LeqISkUAAAAAE6jbUjT6D8UBYCTSMx7NxITOCUM'
+            });
+        };
+    </script>
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+</div>
+
+
+<div class="broker-overview clear">
+    <h2>Listing Broker</h2>    
+    <div class="broker-overview-table">
+        <div class="broker-overview-content">
+                            <img src="https://webdrive.utahrealestate.com/1e64b400c16993a1c776634118677d24.jpg" alt="Coldwell Banker Realty (Union Heights) Company Logo" /><br />
+            				
+            <strong>Coldwell Banker Realty (Union Heights)</strong><br />
+            7730 S Union Park Ave<br />
+            #600<br />            Midvale, UT 84047<br />
+            801-567-4000        </div>
+    </div>
+</div>
+
+                                                            <div data-aaad="true" data-aa-adunit="/22181265/URE_ListingDetails_Right-Side_300x600" class="advert-600-300"></div>
+                                <div data-aaad="true" data-aa-adunit="/22181265/Mobile-ListingDetails-Right-Side-300x600" class="mobile-advert-600-300"></div>
+                                <div data-aaad="true" data-aa-adunit="/22181265/URE_ListingDetails_Right-Side_300x250_1" class="advert-600-300"></div>
+                                <div data-aaad="true" data-aa-adunit="/22181265/Mobile-ListingDetails-Right-Side-300x250" class="mobile-advert-300-250"></div>
+                                                    </div>
+                    </div>
+                </div><!-- end content___wrap___fluid___sidebar___300 -->
+            </div><!-- end col-xs-12 prop-overview-wrap -->
+        </div><!-- end row -->
+
+                    <!-- Floating right margin ad -->
+            <div data-aaad="true" data-aa-adunit="/22181265/URE_ListingDetails_FarRightSide_160x600v_1" class="advert-list-details-right"></div>
+            <!-- End ad -->
+                
+    </div><!-- end container -->
+    
+</section>
+
+<script type="text/javascript" src="https://code.listtrac.com/monitor.ashx?acct=ure_100523&callback=listtracLogview&nonjq=1" async></script>
+<script type="text/javascript">
+var listtracLogview = function(){
+_LT._trackEvent(_eventType.view, '1859561', '84104', null, 'Client', 'Public');
+};
+</script>
+
+<div style="display: none"><img src="https://www.utahrealestate.com/index/hit?listnos=1859561&bucket=27" /></div>
+    <div id="lead-body" style="display: none">
+        <h3>Lead Warning Statement</h3>
+        <p style="font-size: .8em; line-height: 1.3em; max-width: 300px; font-family: 'Open Sans';">Every purchaser of any interest in residential real property on which a residential dwelling was built prior to 1978 is notified that such property may present exposure to lead from lead-based paint that may place young children at risk of developing lead poisoning. Lead poisoning in young children may produce permanent neurological damage, including learning disabilities, reduced intelligence quotient, behavioral problems, and impaired memory. Lead poisoning also poses a particular risk to pregnant women. The seller of any interest in residential real property is required to provide the buyer with any information on lead-based paint hazards from risk assessments or inspections in the seller's possession and notify the buyer of any known lead-based paint hazards. A risk assessment or inspection for possible lead-based paint hazards is recommended prior to purchase.</p>
+    </div>
+        
+                                <div class="container">
+        <p class="center" style="margin: 20px 0 40px 0;">UtahRealEstate.com is where real estate listings originate, and it is the most used property information platform for real estate professionals in the state of Utah. UtahRealEstate.com offers you the most complete and current property information available.</p>
+        <h5>Find Utah Homes for Sale by City</h5>        
+
+        <div class="row">
+            <div class="col-xs-15 col-md-15 center homes-by-city">
+                <b><a href="/davis-county-homes">Davis County</a></b>
+                <ul>
+                    <li><a href="/bountiful-homes">Bountiful</a></li>
+                    <li><a href="/clearfield-homes">Clearfield</a></li>
+                    <li><a href="/clinton-homes">Clinton</a></li>
+                    <li><a href="/layton-homes">Layton</a></li>
+                    <li><a href="/kaysville-homes">Kaysville</a></li>
+                    <li><a href="/north-salt-lake-homes">North Salt Lake</a></li>
+                    <li><a href="/south-weber-homes">South Weber</a></li>
+                    <li><a href="/syracuse-homes">Syracuse</a></li>
+                    <li><a href="/woods-cross-homes">Woods Cross</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-15 col-md-15 center homes-by-city">
+                <b><a href="/salt-lake-county-homes">Salt Lake County</a></b>
+                <ul>
+                    <li><a href="/cottonwood-heights-homes">Cottonwood Heights</a></li>
+                    <li><a href="/draper-homes">Draper</a></li>
+                    <li><a href="/holladay-homes">Holladay</a></li>
+                    <li><a href="/midvale-homes">Midvale</a></li>
+                    <li><a href="/84109-homes">Millcreek</a></li>
+                    <li><a href="/murray-homes">Murray</a></li>
+                    <li><a href="/salt-lake-city-homes">Salt Lake City</a></li>
+                    <li><a href="/sandy-homes">Sandy</a></li>
+                    <li><a href="/south-jordan-homes">South Jordan</a></li>
+                    <li><a href="/south-salt-lake-homes">South Salt Lake</a></li>
+                    <li><a href="/84106-homes">Sugarhouse</a></li>
+                    <li><a href="/west-jordan-homes">West Jordan</a></li>
+                    <li><a href="/west-valley-city-homes">West Valley</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-15 col-md-15 center homes-by-city">
+                <b><a href="/utah-county-homes">Utah County</a></b>
+                <ul>
+                    <li><a href="/alpine-homes">Alpine</a></li>
+                    <li><a href="/american-fork-homes">American Fork</a></li>
+                    <li><a href="/eagle-mountain-homes">Eagle Mountain</a></li>
+                    <li><a href="/highland-homes">Highland</a></li>
+                    <li><a href="/lehi-homes">Lehi</a></li>
+                    <li><a href="/lindon-homes">Lindon</a></li>
+                    <li><a href="/orem-homes">Orem</a></li>
+                    <li><a href="/provo-homes">Provo</a></li>
+                    <li><a href="/saratoga-springs-homes">Saratoga Springs</a></li>
+                    <li><a href="/spanish-fork-homes">Spanish Fork</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-15 col-md-15 center homes-by-city">
+                <b><a href="/weber-county-homes">Weber County</a></b>
+                <ul>
+                    <li><a href="/north-ogden-homes">North Ogden</a></li>
+                    <li><a href="/ogden-homes">Ogden</a></li>
+                    <li><a href="/pleasant-view-homes">Pleasant View</a></li>
+                    <li><a href="/roy-homes">Roy</a></li>
+                    <li><a href="/south-ogden-homes">South Ogden</a></li>
+                    <li><a href="/west-haven-homes">West Haven</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-15 col-md-15 center homes-by-city">
+                <b>Other Cities and Counties</b>
+                <ul>
+                    <li><a href="/brigham-city-homes">Brigham City</a></li>
+                    <li><a href="/cedar-city-homes">Cedar City</a></li>                    
+                    <li><a href="/logan-homes">Logan</a></li>
+                    <li><a href="/moab-homes">Moab</a></li>                    
+                    <li><a href="/park-city-homes">Park City</a></li>
+                    <li><a href="/price-homes">Price</a></li>
+                    <li><a href="/roosevelt-homes">Roosevelt</a></li>                    
+                    <li><a href="/st.-george-homes/">St. George</a></li>
+                    <li><a href="/tooele-homes">Tooele</a></li>                    
+                    <li><a href="/vernal-homes">Vernal</a></li>
+                </ul>
+            </div>
+        </div><!-- end outer row -->
+
+                    <div class="row">
+                <div class="col-sm-12" style="margin: 40px 0;">
+                    <div data-aaad="true" data-aa-adunit="/22181265/URE_ListingDetails_Center_728x90v_1" style="margin-top: 15px" class="advert-728-90"></div>
+<div data-aaad="true" data-aa-adunit="/22181265/Mobile-ListingDetails-Center-728x90-1" style="margin-top: 15px" class="mobile-advert-320-50"></div>
+                </div>
+            </div>
+        
+        <h5>Find Homes for Sale in Utah by Zip Code</h5>
+
+        <div class="row">
+            <div class="col-md-15 center">
+                <ul>
+                    <li><a href="/84109-homes">84109</a></li>
+                    <li><a href="/84106-homes">84106</a></li>
+                    <li><a href="/84108-homes">84108</a></li>
+                    <li><a href="/84105-homes">84105</a></li>
+                    <li><a href="/84119-homes">84119</a></li>
+                    <li><a href="/84124-homes">84124</a></li>
+                </ul>
+            </div>
+            <div class="col-md-15 center">
+                <ul>
+                    <li><a href="/84121-homes">84121</a></li>
+                    <li><a href="/84103-homes">84103</a></li>
+                    <li><a href="/84117-homes">84117</a></li>
+                    <li><a href="/84093-homes">84093</a></li>
+                    <li><a href="/84092-homes">84092</a></li>
+                    <li><a href="/84107-homes">84107</a></li>
+                </ul>
+            </div>
+            <div class="col-md-15 center">
+                <ul>
+                    <li><a href="/84020-homes">84020</a></li>
+                    <li><a href="/84088-homes">84088</a></li>
+                    <li><a href="/84081-homes">84081</a></li>
+                    <li><a href="/84095-homes">84095</a></li>
+                    <li><a href="/84009-homes">84009</a></li>
+                    <li><a href="/84104-homes">84104</a></li>
+                </ul>
+            </div>
+            <div class="col-md-15 center">
+                <ul>
+                    <li><a href="/84403-homes">84403</a></li>
+                    <li><a href="/84405-homes">84405</a></li>
+                    <li><a href="/84043-homes">84043</a></li>
+                    <li><a href="/84601-homes">84601</a></li>
+                    <li><a href="/84028-homes">84028</a></li>
+                    <li><a href="/84321-homes">84321</a></li>
+                </ul>
+            </div>
+            <div class="col-md-15 center">
+                <ul>
+                    <li><a href="/84604-homes">84604</a></li>
+                    <li><a href="/84057-homes">84057</a></li>
+                    <li><a href="/84060-homes">84060</a></li>
+                    <li><a href="/84098-homes">84098</a></li>
+                    <li><a href="/84532-homes">84532</a></li>
+                    <li><a href="/84651-homes">84651</a></li>
+                </ul>
+            </div>
+
+        </div><!-- end outer row -->
+
+    </div><!-- end container -->
+
+<footer>
+    <div class="container">
+
+        <p class="center">
+            <a class="social-facebook" href="https://www.facebook.com/UtahRealEstateMLS" role="button" target="_blank" aria-label="URE Facebook Link">
+                <span class="fa-stack fa-lg">
+                    <i class="fa icon-circle fa-stack-2x"></i>
+                    <i class="fa icon-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+            <a class="social-twitter" href="https://www.twitter.com/Utah_MLS" role="button" target="_blank" aria-label="URE Twitter Link">
+                <span class="fa-stack fa-lg">
+                    <i class="fa icon-circle fa-stack-2x"></i>
+                    <i class="fa icon-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+            <a class="social-instagram" href="https://www.instagram.com/Utah_MLS/" role="button" target="_blank" aria-label="URE Instagram Link">
+                <span class="fa-stack fa-lg">
+                    <i class="fa icon-circle fa-stack-2x"></i>
+                    <i class="fa icon-instagram fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+        </p>
+        <p class="center">
+            <a href="/about/">About UtahRealEstate.com</a> &bull;
+            <a href="//blog.utahrealestate.com/">Blog</a> &bull;
+            <a href="/about/accessibility">Accessibility</a> &bull;
+            <a href="http://portal.hud.gov/portal/page/portal/HUD/program_offices/fair_housing_equal_opp" rel="nofollow" target="_blank">Equal Housing Opportunity</a> &bull; 
+            <a href="/page/do/dmca.notice">DMCA Notice</a> &bull; 
+            <a href="/page/do/privacy.policy">Privacy Policy</a> &bull;            
+            <a href="/page/do/public.license.agreement/">Terms of Use</a> &bull;
+            <a href="https://vendor.utahrealestate.com">Data Services</a>
+        </p>
+        <p class="center">
+            All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy.
+        </p>
+        <p class="center">
+            &copy;UtahRealEstate.com. All Rights Reserved. Information Not Guaranteed.
+        </p>
+        <img class="mls-img" src="/site/img/common/nar_mls_logo.svg" alt="MLS Logo" />
+    </div>
+</footer>
+
+    <section id="adzone2" class="contrast">
+        <div class="container">
+           <div data-aaad="true" data-aa-adunit="/22181265/URE_ListingDetails_Center_728x90v_2" style="margin-top: 15px" class="advert-728-90"></div>
+<div data-aaad="true" data-aa-adunit="/22181265/Mobile-ListingDetails-Center-728x90-2" style="margin-top: 15px" class="mobile-advert-320-50"></div>
+        </div>
+    </section>
+        
+        
+        <div id="help_content_div" style="display: none;"></div>
+        <div id="mini_notify" class="mini_notify_error">I am mister notify</div>
+
+        <!-- LOGIN PANEL MARKUP -->
+        <div id="auth_panel" title="Please Login" style="display: none; background-image: none;"></div>
+
+                    <script type="text/javascript" src="/min/?g=layout_js&amp;1681505356"></script>
+        
+        
+        <script type="text/javascript" src="/min/?g=reports_js&amp;1681505356"></script>
+<script type="text/javascript" src="/js/site/jquery/jquery-ui-1.9.2.custom.min.js?1681505356"></script>
+<script type="text/javascript" src="/site/js/jquery-input-mask-phone-number.min.js?1681505356"></script>
+<script type="text/javascript" src="/site/js/social-share.js?1681505356"></script>
+<script type="text/javascript" src="/site/js/submitFeedback.js?1681505356"></script>
+<script type="text/javascript" src="/js/highcharts/highcharts.js?1681505356"></script>
+<script type="text/javascript" src="/js/onboard/onboard.js?1681505356"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    if (typeof(Balloon) == 'function') var balloon = new Balloon();
+                (function(l,i,s,t,h,u,b){l['ListHubAnalyticsObject']=h;l[h]=l[h]||function(){
+                    (l[h].q=l[h].q||[]).push(arguments)},l[h].d=1*new Date();u=i.createElement(s),
+                    b=i.getElementsByTagName(s)[0];u.async=1;u.src=t;b.parentNode.insertBefore(u,b)
+                })(window,document,'script','//tracking.listhub.net/la.min.js','lh');
+
+                lh('init', {provider:'M-2408', test:false});
+                lh('submit', 'DETAIL_PAGE_VIEWED', {mlsn:'1859561'});
+
+                jQuery('#rating_add_1859561').click(function() {lh('submit', 'LISTING_SAVED', {mlsn:'1859561'});});
+                jQuery('[listhub_id = "generate-pdf"]').click(function() {lh('submit', 'PRINT_MEDIA_CLICKED', {mlsn:'1859561'});});
+                jQuery('[listhub_id = "view-map"]').click(function() {lh('submit', 'PROPERTY_MAP_CLICKED', {mlsn:'1859561'});});
+                jQuery('#img_1859561').click(function() {lh('submit', 'VIEWED_MORE_PHOTOS', {mlsn:'1859561'});});
+                jQuery('[listhub_id = "view-virtual-tour"]').click(function() {lh('submit', 'VIRTUAL_TOUR_CLICKED', {mlsn:'1859561'});});
+
+                jQuery(document).ready(function() {
+                    jQuery('#image-gallery').lightSlider({
+                        gallery:true,
+                        item:1,
+                        loop:true,
+                        thumbItem:9,
+                        slideMargin:0,
+                        speed: 0,
+                        enableDrag: false,
+                        currentPagerPosition:'left',
+                        onSliderLoad: function(el) {
+                            el.lightGallery({
+                                selector: '#image-gallery .lslide',
+                                addClass: 'lgWithFooterAd',
+                                download: false,
+                                preload: 1,
+                                speed: 50,
+                                hideBarsDelay: 2000,
+                                zoom: true,
+                                fullScreen: true,
+                                enableDrag: false,
+                                startClass: ''
+                            });
+                            // disable their ability to double-click on the element anywhere
+                            jQuery(document).on('dblclick', function(e){
+                                e.preventDefault();
+                                return false;
+                            });
+                            // Load the carousel ad to the bottom of full-page carousel
+                            el.on('onAfterOpen.lg', function(e){
+                                jQuery('.lgWithFooterAd').append('\
+                                    <div id="lg-footer-ad-container">\
+                                        <iframe src="/report/photo.carousel.ad" class="advert-728-90-carousel"></iframe>\
+                                    </div>\
+                                ');
+                            });
+                        }
+                    });
+
+                    // Resize the height of the spacer pixel when the window resize event is called
+                    jQuery(window).on('resize', function(){
+                        jQuery('img#spacer-pixel').attr('height', jQuery('#prop-details').height() + 30);
+                    }).trigger('resize');
+
+                    // Smooth scrolling using jQuery easing for header jump-to anchors
+                    jQuery('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
+                        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                            jQuery('.navbar-collapse').collapse('hide');
+
+                            var target = jQuery(this.hash);
+                            target = target.length ? target : jQuery('[name=' + this.hash.slice(1) + ']');
+
+                            var extra_offset = 0;
+
+                            // Apply extra offset if not on mobile handheld device due to fixed scrolling div
+                            if (jQuery(window).width() > 766) {
+                                var fixedDivHeight = jQuery('#prop-details').outerHeight(true);
+                                extra_offset += fixedDivHeight;
+
+                                if (jQuery('#prop-details').css('position') == 'relative') {
+                                    extra_offset += fixedDivHeight;
+                                }
+                            } else {
+                                // Mobile handheld extra padding above scrolled section
+                                extra_offset += 20;
+                            }
+
+                            if (target.length) {
+                                jQuery('html, body').animate({
+                                    scrollTop: (target.offset().top - extra_offset)
+                                }, 1000, 'easeInOutExpo');
+
+                                return false;
+                            }
+                        }
+                    });
+
+                    // For the phone input fields
+                    $('input[type=tel]').usPhoneFormat({
+                        format: '(xxx) xxx-xxxx'
+                    });
+                });
+                //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+            $(document).ready(function() {
+                $('.viewTour').popover({
+                    trigger: 'manual',
+                    html: true,
+                    content: function() {
+                        return $(this).next('.dropdown-content').html()
+                    },
+                }).click(function () {
+                    $(this).popover('toggle');
+                });
+
+                // Close all bootstrap popovers when clicking outside of actual popover.
+                $('body').on('click', function (e) {
+                    $('[data-toggle="popover"],[data-original-title]').each(function () {
+                        if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                            $(this).popover('hide');
+                        }
+                    });
+                });
+            });    //]]>
+</script>
+                                <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PSJFQK2M2M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PSJFQK2M2M');   // GA4
+  gtag('config', 'UA-3153503-1');   // Old GA
+   gtag('event', 'UserType', 'Guest');
+ </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T4TNGKW');</script>
+<!-- End Google Tag Manager -->
+        
+        <script type="text/javascript">
+            jQuery(document).ready(function(e) {
+                Authenticate.initPreLoginPanel();
+            });
+        </script>
+    </body>
+</html>
