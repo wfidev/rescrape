@@ -45,7 +45,7 @@ class Zillow(ListingSource):
         p = self.CreatePropertyFromPage(doc, uri, r.text)
         return p
     
-    def LoadPropertyTest(seld, uri):
+    def LoadPropertyTest(self, uri):
         doc = None
         with open('zill_zenith.txt', 'r') as f:
             text = f.read()
